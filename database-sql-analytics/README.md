@@ -16,4 +16,6 @@ Relational schema design and analytical SQL on PostgreSQL.
 PostgreSQL, analytical SQL.
 
 ## Files
-- `database_sql_analytics.pdf` — the write-up.
+- Full write-up available on request (kept out of the public repo to respect
+  coursework-sharing policy). A sanitized set of representative queries can be
+  added here.
