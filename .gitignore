@@ -2,3 +2,10 @@
 .ipynb_checkpoints/
 __pycache__/
 *.pyc
+
+# IDE / editor cruft
+.idea/
+
+# Large data files (Project 2 SigLIP features, ~117MB) — excluded from git.
+# See multimodal-siglip-classification/data/README.md for how to obtain them.
+*.npy
